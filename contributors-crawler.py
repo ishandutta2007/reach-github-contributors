@@ -33,8 +33,8 @@ def get_bio(s, profile_url):
 		print('username:', username_val)
 		line = line + username_val + ', '
 
-		print('repourl:', contrib_profile_url)
-		line = line + contrib_profile_url + ', '
+		print('profile_url:', profile_url)
+		line = line + profile_url + ', '
 
 		fullname = parsed_html.find("span", class_="vcard-fullname")
 		if fullname is not None:
