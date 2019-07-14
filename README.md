@@ -1,4 +1,4 @@
-# reach-forkers
+# reach-github-contributors
 
 This is a repo which collects mail id of all forkers of a repo and send them a specific mail.
 
