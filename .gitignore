@@ -1,4 +1,7 @@
-*.json
-config.txt
-*.bkp
-__pycache__
+*.bak
+*.bk
+*.env
+.cache
+__pycache__/*
+contributors.txt
+temp_repo_clone
